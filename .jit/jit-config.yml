@@ -1,7 +1,7 @@
 applications:
-- api_domain: api.test.com
-  application_name: mywebapp
+- api_domain: api.dev.jitdev.io
+  application_name: PlatformDev1687678099480
   authentication_mode: non-authenticated
   exclude_paths: []
-  target_url: https://plat.ex.com/
+  target_url: https://platform.dev.jitdev.io
   type: web
