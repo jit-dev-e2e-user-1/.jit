@@ -1,6 +1,6 @@
 applications:
 - api_domain: api.dev.jitdev.io
-  application_name: PlatformDev1687683753608
+  application_name: PlatformDev1687684065065
   authentication_mode: non-authenticated
   exclude_paths: []
   target_url: https://platform.dev.jitdev.io
